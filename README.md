@@ -2,5 +2,5 @@
 
 Start
 ```shell
-docker-compose up
+$ docker-compose up
 ```
